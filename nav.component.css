@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    padding: 30px;
+    width: 1600px;
+    /* background-color: rgb(40, 165, 165); */
+    background-color: rgb(2, 39, 87);
+    margin: 0px;
+}
+.navbar li{
+    list-style: none;
+}
+.navbar a{
+    text-decoration: none;
+     padding: 200px; 
+   
+    color: aliceblue;
+}
